@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.exe
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.deps.json
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.dll
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.pdb
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.dll
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\refint\WorkingWithStrings.dll
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.pdb
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\ref\WorkingWithStrings.dll
