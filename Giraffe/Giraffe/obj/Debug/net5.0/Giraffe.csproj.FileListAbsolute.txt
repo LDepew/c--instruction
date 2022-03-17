@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\bin\Debug\net5.0\Giraffe.exe
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\bin\Debug\net5.0\Giraffe.deps.json
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\bin\Debug\net5.0\Giraffe.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\bin\Debug\net5.0\Giraffe.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\bin\Debug\net5.0\Giraffe.dll
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\bin\Debug\net5.0\Giraffe.pdb
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\obj\Debug\net5.0\Giraffe.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\obj\Debug\net5.0\Giraffe.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\obj\Debug\net5.0\Giraffe.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\obj\Debug\net5.0\Giraffe.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\obj\Debug\net5.0\Giraffe.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\obj\Debug\net5.0\Giraffe.dll
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\obj\Debug\net5.0\refint\Giraffe.dll
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\obj\Debug\net5.0\Giraffe.pdb
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\obj\Debug\net5.0\Giraffe.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\Giraffe\Giraffe\obj\Debug\net5.0\ref\Giraffe.dll
