@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\bin\Debug\net5.0\Variables.exe
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\bin\Debug\net5.0\Variables.deps.json
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\bin\Debug\net5.0\Variables.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\bin\Debug\net5.0\Variables.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\bin\Debug\net5.0\Variables.dll
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\bin\Debug\net5.0\Variables.pdb
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\obj\Debug\net5.0\Variables.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\obj\Debug\net5.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\obj\Debug\net5.0\Variables.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\obj\Debug\net5.0\Variables.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\obj\Debug\net5.0\Variables.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\obj\Debug\net5.0\Variables.dll
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\obj\Debug\net5.0\refint\Variables.dll
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\obj\Debug\net5.0\Variables.pdb
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\obj\Debug\net5.0\Variables.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\Variables\Variables\obj\Debug\net5.0\ref\Variables.dll

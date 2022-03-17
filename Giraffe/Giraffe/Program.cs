@@ -6,7 +6,6 @@ namespace Giraffe
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("Hello World");
 
             Console.WriteLine("   /|");
@@ -15,6 +14,7 @@ namespace Giraffe
             Console.WriteLine("/___|");
 
             Console.ReadLine();
+            
         }
     }
 }
