@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.exe
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.deps.json
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.dll
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\bin\Debug\net5.0\DataTypes.pdb
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.dll
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\obj\Debug\net5.0\refint\DataTypes.dll
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.pdb
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\obj\Debug\net5.0\DataTypes.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\DataTypes\DataTypes\obj\Debug\net5.0\ref\DataTypes.dll
