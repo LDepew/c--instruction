@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.exe
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.deps.json
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.dll
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.pdb
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.dll
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\net5.0\refint\WorkingWithNumbers.dll
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.pdb
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\WorkingWithNumbers\WorkingWithNumbers\obj\Debug\net5.0\ref\WorkingWithNumbers.dll
