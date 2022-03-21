@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\bin\Debug\net5.0\BuildingAMadLibsGame.exe
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\bin\Debug\net5.0\BuildingAMadLibsGame.deps.json
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\bin\Debug\net5.0\BuildingAMadLibsGame.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\bin\Debug\net5.0\BuildingAMadLibsGame.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\bin\Debug\net5.0\BuildingAMadLibsGame.dll
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\bin\Debug\net5.0\BuildingAMadLibsGame.pdb
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\obj\Debug\net5.0\BuildingAMadLibsGame.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\obj\Debug\net5.0\BuildingAMadLibsGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\obj\Debug\net5.0\BuildingAMadLibsGame.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\obj\Debug\net5.0\BuildingAMadLibsGame.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\obj\Debug\net5.0\BuildingAMadLibsGame.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\obj\Debug\net5.0\BuildingAMadLibsGame.dll
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\obj\Debug\net5.0\refint\BuildingAMadLibsGame.dll
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\obj\Debug\net5.0\BuildingAMadLibsGame.pdb
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\obj\Debug\net5.0\BuildingAMadLibsGame.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\BuildingAMadLibsGame\BuildingAMadLibsGame\obj\Debug\net5.0\ref\BuildingAMadLibsGame.dll
