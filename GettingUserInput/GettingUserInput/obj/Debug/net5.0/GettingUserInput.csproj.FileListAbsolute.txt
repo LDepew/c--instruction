@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\bin\Debug\net5.0\GettingUserInput.exe
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\bin\Debug\net5.0\GettingUserInput.deps.json
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\bin\Debug\net5.0\GettingUserInput.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\bin\Debug\net5.0\GettingUserInput.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\bin\Debug\net5.0\GettingUserInput.dll
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\bin\Debug\net5.0\GettingUserInput.pdb
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\obj\Debug\net5.0\GettingUserInput.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\obj\Debug\net5.0\GettingUserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\obj\Debug\net5.0\GettingUserInput.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\obj\Debug\net5.0\GettingUserInput.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\obj\Debug\net5.0\GettingUserInput.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\obj\Debug\net5.0\GettingUserInput.dll
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\obj\Debug\net5.0\refint\GettingUserInput.dll
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\obj\Debug\net5.0\GettingUserInput.pdb
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\obj\Debug\net5.0\GettingUserInput.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\GettingUserInput\GettingUserInput\obj\Debug\net5.0\ref\GettingUserInput.dll
