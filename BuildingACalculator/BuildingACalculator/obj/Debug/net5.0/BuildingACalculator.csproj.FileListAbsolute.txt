@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\bin\Debug\net5.0\BuildingACalculator.exe
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\bin\Debug\net5.0\BuildingACalculator.deps.json
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\bin\Debug\net5.0\BuildingACalculator.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\bin\Debug\net5.0\BuildingACalculator.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\bin\Debug\net5.0\BuildingACalculator.dll
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\bin\Debug\net5.0\BuildingACalculator.pdb
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.dll
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\refint\BuildingACalculator.dll
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.pdb
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\BuildingACalculator.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\BuildingACalculator\BuildingACalculator\obj\Debug\net5.0\ref\BuildingACalculator.dll
