@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\bin\Debug\net5.0\IfStatements.exe
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\bin\Debug\net5.0\IfStatements.deps.json
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\bin\Debug\net5.0\IfStatements.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\bin\Debug\net5.0\IfStatements.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\bin\Debug\net5.0\IfStatements.dll
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\bin\Debug\net5.0\IfStatements.pdb
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.dll
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\obj\Debug\net5.0\refint\IfStatements.dll
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.pdb
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\obj\Debug\net5.0\IfStatements.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\IfStatements\IfStatements\obj\Debug\net5.0\ref\IfStatements.dll
