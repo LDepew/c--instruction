@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\bin\Debug\net5.0\BuildingABetterCalculator.exe
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\bin\Debug\net5.0\BuildingABetterCalculator.deps.json
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\bin\Debug\net5.0\BuildingABetterCalculator.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\bin\Debug\net5.0\BuildingABetterCalculator.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\bin\Debug\net5.0\BuildingABetterCalculator.dll
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\bin\Debug\net5.0\BuildingABetterCalculator.pdb
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.dll
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\refint\BuildingABetterCalculator.dll
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.pdb
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\BuildingABetterCalculator.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\BuildingABetterCalculator\BuildingABetterCalculator\obj\Debug\net5.0\ref\BuildingABetterCalculator.dll
