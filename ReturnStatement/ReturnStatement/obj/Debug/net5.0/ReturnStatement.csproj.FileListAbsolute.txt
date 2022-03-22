@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\bin\Debug\net5.0\ReturnStatement.exe
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\bin\Debug\net5.0\ReturnStatement.deps.json
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\bin\Debug\net5.0\ReturnStatement.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\bin\Debug\net5.0\ReturnStatement.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\bin\Debug\net5.0\ReturnStatement.dll
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\bin\Debug\net5.0\ReturnStatement.pdb
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\obj\Debug\net5.0\ReturnStatement.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\obj\Debug\net5.0\ReturnStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\obj\Debug\net5.0\ReturnStatement.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\obj\Debug\net5.0\ReturnStatement.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\obj\Debug\net5.0\ReturnStatement.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\obj\Debug\net5.0\ReturnStatement.dll
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\obj\Debug\net5.0\refint\ReturnStatement.dll
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\obj\Debug\net5.0\ReturnStatement.pdb
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\obj\Debug\net5.0\ReturnStatement.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\ReturnStatement\ReturnStatement\obj\Debug\net5.0\ref\ReturnStatement.dll
