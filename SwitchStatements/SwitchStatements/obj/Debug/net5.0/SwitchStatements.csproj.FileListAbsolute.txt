@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.exe
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.deps.json
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.dll
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\bin\Debug\net5.0\SwitchStatements.pdb
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.dll
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\obj\Debug\net5.0\refint\SwitchStatements.dll
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.pdb
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\obj\Debug\net5.0\SwitchStatements.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\SwitchStatements\SwitchStatements\obj\Debug\net5.0\ref\SwitchStatements.dll
