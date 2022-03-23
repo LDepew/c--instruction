@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\bin\Debug\net5.0\WhileLoops.exe
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\bin\Debug\net5.0\WhileLoops.deps.json
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\bin\Debug\net5.0\WhileLoops.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\bin\Debug\net5.0\WhileLoops.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\bin\Debug\net5.0\WhileLoops.dll
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\bin\Debug\net5.0\WhileLoops.pdb
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\obj\Debug\net5.0\WhileLoops.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\obj\Debug\net5.0\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\obj\Debug\net5.0\WhileLoops.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\obj\Debug\net5.0\WhileLoops.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\obj\Debug\net5.0\WhileLoops.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\obj\Debug\net5.0\WhileLoops.dll
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\obj\Debug\net5.0\refint\WhileLoops.dll
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\obj\Debug\net5.0\WhileLoops.pdb
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\obj\Debug\net5.0\WhileLoops.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\WhileLoops\WhileLoops\obj\Debug\net5.0\ref\WhileLoops.dll
