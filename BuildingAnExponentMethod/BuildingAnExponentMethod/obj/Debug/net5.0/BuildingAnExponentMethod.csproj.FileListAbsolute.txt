@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.exe
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.deps.json
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.dll
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\bin\Debug\net5.0\BuildingAnExponentMethod.pdb
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.dll
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\refint\BuildingAnExponentMethod.dll
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.pdb
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\BuildingAnExponentMethod.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\BuildingAnExponentMethod\BuildingAnExponentMethod\obj\Debug\net5.0\ref\BuildingAnExponentMethod.dll
