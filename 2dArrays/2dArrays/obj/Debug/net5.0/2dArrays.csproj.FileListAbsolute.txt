@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\bin\Debug\net5.0\2dArrays.exe
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\bin\Debug\net5.0\2dArrays.deps.json
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\bin\Debug\net5.0\2dArrays.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\bin\Debug\net5.0\2dArrays.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\bin\Debug\net5.0\2dArrays.dll
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\bin\Debug\net5.0\2dArrays.pdb
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\obj\Debug\net5.0\2dArrays.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\obj\Debug\net5.0\2dArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\obj\Debug\net5.0\2dArrays.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\obj\Debug\net5.0\2dArrays.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\obj\Debug\net5.0\2dArrays.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\obj\Debug\net5.0\2dArrays.dll
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\obj\Debug\net5.0\refint\2dArrays.dll
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\obj\Debug\net5.0\2dArrays.pdb
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\obj\Debug\net5.0\2dArrays.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\2dArrays\2dArrays\obj\Debug\net5.0\ref\2dArrays.dll
