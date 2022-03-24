@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.exe
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.deps.json
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.dll
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\bin\Debug\net5.0\ForLoops.pdb
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.dll
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\obj\Debug\net5.0\refint\ForLoops.dll
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.pdb
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\obj\Debug\net5.0\ForLoops.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\ForLoops\ForLoops\obj\Debug\net5.0\ref\ForLoops.dll
