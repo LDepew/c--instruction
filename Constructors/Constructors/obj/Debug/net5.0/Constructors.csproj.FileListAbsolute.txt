@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\bin\Debug\net5.0\Constructors.exe
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\bin\Debug\net5.0\Constructors.deps.json
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\bin\Debug\net5.0\Constructors.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\bin\Debug\net5.0\Constructors.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\bin\Debug\net5.0\Constructors.dll
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\bin\Debug\net5.0\Constructors.pdb
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\obj\Debug\net5.0\Constructors.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\obj\Debug\net5.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\obj\Debug\net5.0\Constructors.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\obj\Debug\net5.0\Constructors.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\obj\Debug\net5.0\Constructors.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\obj\Debug\net5.0\Constructors.dll
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\obj\Debug\net5.0\refint\Constructors.dll
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\obj\Debug\net5.0\Constructors.pdb
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\obj\Debug\net5.0\Constructors.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\Constructors\Constructors\obj\Debug\net5.0\ref\Constructors.dll
