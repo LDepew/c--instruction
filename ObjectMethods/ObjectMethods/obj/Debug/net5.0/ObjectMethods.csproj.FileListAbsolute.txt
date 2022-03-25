@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\bin\Debug\net5.0\ObjectMethods.exe
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\bin\Debug\net5.0\ObjectMethods.deps.json
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\bin\Debug\net5.0\ObjectMethods.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\bin\Debug\net5.0\ObjectMethods.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\bin\Debug\net5.0\ObjectMethods.dll
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\bin\Debug\net5.0\ObjectMethods.pdb
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\obj\Debug\net5.0\ObjectMethods.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\obj\Debug\net5.0\ObjectMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\obj\Debug\net5.0\ObjectMethods.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\obj\Debug\net5.0\ObjectMethods.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\obj\Debug\net5.0\ObjectMethods.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\obj\Debug\net5.0\ObjectMethods.dll
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\obj\Debug\net5.0\refint\ObjectMethods.dll
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\obj\Debug\net5.0\ObjectMethods.pdb
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\obj\Debug\net5.0\ObjectMethods.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\ObjectMethods\ObjectMethods\obj\Debug\net5.0\ref\ObjectMethods.dll
