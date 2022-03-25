@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.exe
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.deps.json
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.dll
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\bin\Debug\net5.0\ExceptionHandling.pdb
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.dll
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\refint\ExceptionHandling.dll
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.pdb
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ExceptionHandling.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\ExceptionHandling\ExceptionHandling\obj\Debug\net5.0\ref\ExceptionHandling.dll
