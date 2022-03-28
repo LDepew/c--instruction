@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.exe
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.deps.json
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.dll
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.pdb
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.dll
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net5.0\refint\StaticMethodsAndClasses.dll
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.pdb
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\StaticMethodsAndClasses\StaticMethodsAndClasses\obj\Debug\net5.0\ref\StaticMethodsAndClasses.dll
