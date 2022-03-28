@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.exe
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.dll
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.dll
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\obj\Debug\net5.0\refint\Inheritance.dll
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\Inheritance\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
