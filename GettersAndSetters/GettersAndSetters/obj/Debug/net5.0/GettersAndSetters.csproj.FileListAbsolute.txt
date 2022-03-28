@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.exe
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.deps.json
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.dll
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\bin\Debug\net5.0\GettersAndSetters.pdb
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.dll
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\refint\GettersAndSetters.dll
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.pdb
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\GettersAndSetters.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\GettersAndSetters\GettersAndSetters\obj\Debug\net5.0\ref\GettersAndSetters.dll
