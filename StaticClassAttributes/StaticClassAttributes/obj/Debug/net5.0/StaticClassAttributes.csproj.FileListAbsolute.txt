@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.exe
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.deps.json
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.dll
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.pdb
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.dll
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\obj\Debug\net5.0\refint\StaticClassAttributes.dll
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.pdb
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\StaticClassAttributes\StaticClassAttributes\obj\Debug\net5.0\ref\StaticClassAttributes.dll
