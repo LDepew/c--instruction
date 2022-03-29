@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\bin\Debug\net5.0\proj02_01_StudentRegistration.exe
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\bin\Debug\net5.0\proj02_01_StudentRegistration.deps.json
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\bin\Debug\net5.0\proj02_01_StudentRegistration.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\bin\Debug\net5.0\proj02_01_StudentRegistration.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\bin\Debug\net5.0\proj02_01_StudentRegistration.dll
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\bin\Debug\net5.0\proj02_01_StudentRegistration.pdb
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\obj\Debug\net5.0\proj02_01_StudentRegistration.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\obj\Debug\net5.0\proj02_01_StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\obj\Debug\net5.0\proj02_01_StudentRegistration.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\obj\Debug\net5.0\proj02_01_StudentRegistration.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\obj\Debug\net5.0\proj02_01_StudentRegistration.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\obj\Debug\net5.0\proj02_01_StudentRegistration.dll
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\obj\Debug\net5.0\refint\proj02_01_StudentRegistration.dll
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\obj\Debug\net5.0\proj02_01_StudentRegistration.pdb
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\obj\Debug\net5.0\proj02_01_StudentRegistration.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\proj02_01_StudentRegistration\proj02_01_StudentRegistration\obj\Debug\net5.0\ref\proj02_01_StudentRegistration.dll
