@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "proj02_02_GradeConverter/1.0.0": {
+        "runtime": {
+          "proj02_02_GradeConverter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "proj02_02_GradeConverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
