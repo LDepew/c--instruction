@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\bin\Debug\net5.0\proj03_01_TemperatureConverter.exe
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\bin\Debug\net5.0\proj03_01_TemperatureConverter.deps.json
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\bin\Debug\net5.0\proj03_01_TemperatureConverter.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\bin\Debug\net5.0\proj03_01_TemperatureConverter.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\bin\Debug\net5.0\proj03_01_TemperatureConverter.dll
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\bin\Debug\net5.0\proj03_01_TemperatureConverter.pdb
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\obj\Debug\net5.0\proj03_01_TemperatureConverter.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\obj\Debug\net5.0\proj03_01_TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\obj\Debug\net5.0\proj03_01_TemperatureConverter.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\obj\Debug\net5.0\proj03_01_TemperatureConverter.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\obj\Debug\net5.0\proj03_01_TemperatureConverter.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\obj\Debug\net5.0\proj03_01_TemperatureConverter.dll
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\obj\Debug\net5.0\refint\proj03_01_TemperatureConverter.dll
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\obj\Debug\net5.0\proj03_01_TemperatureConverter.pdb
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\obj\Debug\net5.0\proj03_01_TemperatureConverter.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\proj03_01_TemperatureConverter\proj03_01_TemperatureConverter\obj\Debug\net5.0\ref\proj03_01_TemperatureConverter.dll
