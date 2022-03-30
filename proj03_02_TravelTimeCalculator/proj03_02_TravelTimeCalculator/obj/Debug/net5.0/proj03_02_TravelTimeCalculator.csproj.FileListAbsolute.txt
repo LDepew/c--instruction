@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\bin\Debug\net5.0\proj03_02_TravelTimeCalculator.exe
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\bin\Debug\net5.0\proj03_02_TravelTimeCalculator.deps.json
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\bin\Debug\net5.0\proj03_02_TravelTimeCalculator.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\bin\Debug\net5.0\proj03_02_TravelTimeCalculator.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\bin\Debug\net5.0\proj03_02_TravelTimeCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\bin\Debug\net5.0\proj03_02_TravelTimeCalculator.pdb
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\obj\Debug\net5.0\proj03_02_TravelTimeCalculator.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\obj\Debug\net5.0\proj03_02_TravelTimeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\obj\Debug\net5.0\proj03_02_TravelTimeCalculator.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\obj\Debug\net5.0\proj03_02_TravelTimeCalculator.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\obj\Debug\net5.0\proj03_02_TravelTimeCalculator.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\obj\Debug\net5.0\proj03_02_TravelTimeCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\obj\Debug\net5.0\refint\proj03_02_TravelTimeCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\obj\Debug\net5.0\proj03_02_TravelTimeCalculator.pdb
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\obj\Debug\net5.0\proj03_02_TravelTimeCalculator.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\proj03_02_TravelTimeCalculator\proj03_02_TravelTimeCalculator\obj\Debug\net5.0\ref\proj03_02_TravelTimeCalculator.dll

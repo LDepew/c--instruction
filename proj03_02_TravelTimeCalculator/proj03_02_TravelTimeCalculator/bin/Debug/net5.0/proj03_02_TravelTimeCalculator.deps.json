@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "proj03_02_TravelTimeCalculator/1.0.0": {
+        "runtime": {
+          "proj03_02_TravelTimeCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "proj03_02_TravelTimeCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
