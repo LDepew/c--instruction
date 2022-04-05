@@ -1,0 +1,11 @@
+D:\ProgRepos\repos\c#-instruction\HelloWorldWinForms\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.exe.config
+D:\ProgRepos\repos\c#-instruction\HelloWorldWinForms\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.exe
+D:\ProgRepos\repos\c#-instruction\HelloWorldWinForms\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.pdb
+D:\ProgRepos\repos\c#-instruction\HelloWorldWinForms\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\HelloWorldWinForms\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.csproj.SuggestedBindingRedirects.cache
+D:\ProgRepos\repos\c#-instruction\HelloWorldWinForms\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.Form1.resources
+D:\ProgRepos\repos\c#-instruction\HelloWorldWinForms\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.Properties.Resources.resources
+D:\ProgRepos\repos\c#-instruction\HelloWorldWinForms\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.csproj.GenerateResource.cache
+D:\ProgRepos\repos\c#-instruction\HelloWorldWinForms\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\HelloWorldWinForms\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.exe
+D:\ProgRepos\repos\c#-instruction\HelloWorldWinForms\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.pdb
