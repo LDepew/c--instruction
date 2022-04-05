@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
