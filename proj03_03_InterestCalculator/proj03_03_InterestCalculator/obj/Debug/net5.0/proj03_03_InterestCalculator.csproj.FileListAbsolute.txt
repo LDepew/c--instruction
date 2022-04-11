@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\bin\Debug\net5.0\proj03_03_InterestCalculator.exe
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\bin\Debug\net5.0\proj03_03_InterestCalculator.deps.json
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\bin\Debug\net5.0\proj03_03_InterestCalculator.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\bin\Debug\net5.0\proj03_03_InterestCalculator.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\bin\Debug\net5.0\proj03_03_InterestCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\bin\Debug\net5.0\proj03_03_InterestCalculator.pdb
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\obj\Debug\net5.0\proj03_03_InterestCalculator.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\obj\Debug\net5.0\proj03_03_InterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\obj\Debug\net5.0\proj03_03_InterestCalculator.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\obj\Debug\net5.0\proj03_03_InterestCalculator.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\obj\Debug\net5.0\proj03_03_InterestCalculator.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\obj\Debug\net5.0\proj03_03_InterestCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\obj\Debug\net5.0\refint\proj03_03_InterestCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\obj\Debug\net5.0\proj03_03_InterestCalculator.pdb
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\obj\Debug\net5.0\proj03_03_InterestCalculator.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\proj03_03_InterestCalculator\proj03_03_InterestCalculator\obj\Debug\net5.0\ref\proj03_03_InterestCalculator.dll
