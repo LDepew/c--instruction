@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\bin\Debug\net5.0\proj04_01_TableOfPowers.exe
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\bin\Debug\net5.0\proj04_01_TableOfPowers.deps.json
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\bin\Debug\net5.0\proj04_01_TableOfPowers.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\bin\Debug\net5.0\proj04_01_TableOfPowers.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\bin\Debug\net5.0\proj04_01_TableOfPowers.dll
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\bin\Debug\net5.0\proj04_01_TableOfPowers.pdb
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\obj\Debug\net5.0\proj04_01_TableOfPowers.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\obj\Debug\net5.0\proj04_01_TableOfPowers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\obj\Debug\net5.0\proj04_01_TableOfPowers.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\obj\Debug\net5.0\proj04_01_TableOfPowers.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\obj\Debug\net5.0\proj04_01_TableOfPowers.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\obj\Debug\net5.0\proj04_01_TableOfPowers.dll
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\obj\Debug\net5.0\refint\proj04_01_TableOfPowers.dll
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\obj\Debug\net5.0\proj04_01_TableOfPowers.pdb
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\obj\Debug\net5.0\proj04_01_TableOfPowers.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\proj04_01_TableOfPowers\proj04_01_TableOfPowers\obj\Debug\net5.0\ref\proj04_01_TableOfPowers.dll
