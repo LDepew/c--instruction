@@ -9,6 +9,11 @@ namespace proj02_02_GradeConverter
             Console.WriteLine("Welcome to the Letter Grade Converter");
             Console.WriteLine();
 
+            bool runagain = true;
+
+            while (runagain)
+            {
+
                 Console.Write("Enter numerical grade: ");
                 int numGrade;
                 numGrade = Convert.ToInt32(Console.ReadLine());
@@ -38,7 +43,20 @@ namespace proj02_02_GradeConverter
 
                 Console.WriteLine("Letter Grade: " + letterGrade);
                 Console.WriteLine();
-            
+
+                Console.Write("Continue (y/n):");
+                string loop = Console.ReadLine();
+
+                if (loop == "y")
+                {
+                    runagain = true;
+                }
+                else if (loop == "n")
+                {
+                    runagain = false;
+                }
+
+            }
 
             Console.ReadLine();
         }
