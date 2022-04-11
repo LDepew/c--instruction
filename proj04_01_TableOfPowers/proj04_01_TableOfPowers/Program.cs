@@ -9,20 +9,40 @@ namespace proj04_01_TableOfPowers
             Console.WriteLine("Welcome to the Squares and Cubes Table");
             Console.WriteLine();
 
-            Console.WriteLine("Enter an integer: ");
-            int number = Convert.ToInt32(Console.ReadLine());
+            bool runagain = true;
 
-            for (int i = 1; i <= number; i++)
+            while (runagain)
             {
-                int squared = (i * i);
 
-                int cubed = ((i * i) * i);
+                Console.WriteLine("Enter an integer: ");
+                int number = Convert.ToInt32(Console.ReadLine());
 
-                Console.WriteLine("Number  Squared  Cubed");
-                Console.WriteLine("======  =======  =====");
+                for (int i = 1; i <= number; i++)
+                {
+                    int squared = (i * i);
 
-                Console.WriteLine(i + "      " + squared + "    " + cubed);
+                    int cubed = ((i * i) * i);
 
+                    Console.WriteLine("Number  Squared  Cubed");
+                    Console.WriteLine("======  =======  =====");
+
+                    Console.WriteLine(i + "      " + squared + "    " + cubed);
+
+                }
+
+                Console.WriteLine();
+                Console.Write("Continue (y/n): ");
+                string loop = Console.ReadLine();
+                Console.WriteLine();
+
+                if (loop == "y")
+                {
+                    runagain = true;
+                }
+                else if (loop == "n")
+                {
+                    runagain = false;
+                }
             }
 
             Console.ReadLine();
