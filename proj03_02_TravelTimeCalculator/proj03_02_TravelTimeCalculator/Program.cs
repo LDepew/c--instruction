@@ -9,20 +9,38 @@ namespace proj03_02_TravelTimeCalculator
             Console.WriteLine("Welcome to the Travel Time Calculator");
             Console.WriteLine();
 
-            Console.Write("Enter miles: ");
-            double miles = Convert.ToDouble(Console.ReadLine());
+            bool runagain = true;
 
-            Console.Write("Enter miles per hour: ");
-            double mph = Convert.ToDouble(Console.ReadLine());
+            while (runagain)
+            {
 
-            double hours = miles / mph;
+                Console.Write("Enter miles: ");
+                double miles = Convert.ToDouble(Console.ReadLine());
 
-            double minutes = miles % mph;
+                Console.Write("Enter miles per hour: ");
+                double mph = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Estimated travel time");
-            Console.WriteLine("---------------------");
-            Console.WriteLine("Hours: " + (Math.Round(hours, 0)));
-            Console.WriteLine("Minutes: " + minutes);
+                double hours = miles / mph;
+
+                double minutes = miles % mph;
+
+                Console.WriteLine("Estimated travel time");
+                Console.WriteLine("---------------------");
+                Console.WriteLine("Hours: " + (Math.Round(hours, 0)));
+                Console.WriteLine("Minutes: " + minutes);
+
+                Console.Write("Continue (y/n): ");
+                string loop = Console.ReadLine();
+
+                if (loop == "y")
+                {
+                    runagain = true;
+                }
+                else if (loop == "n")
+                {
+                    runagain = false;
+                }
+              }
 
             Console.ReadLine();
         }
