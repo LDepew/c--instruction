@@ -44,7 +44,7 @@ namespace proj02_02_GradeConverter
                 Console.WriteLine("Letter Grade: " + letterGrade);
                 Console.WriteLine();
 
-                Console.Write("Continue (y/n):");
+                Console.Write("Continue (y/n): ");
                 string loop = Console.ReadLine();
 
                 if (loop == "y")
