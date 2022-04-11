@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\bin\Debug\net5.0\proj03_04_ChangeCalculator.exe
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\bin\Debug\net5.0\proj03_04_ChangeCalculator.deps.json
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\bin\Debug\net5.0\proj03_04_ChangeCalculator.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\bin\Debug\net5.0\proj03_04_ChangeCalculator.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\bin\Debug\net5.0\proj03_04_ChangeCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\bin\Debug\net5.0\proj03_04_ChangeCalculator.pdb
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\obj\Debug\net5.0\proj03_04_ChangeCalculator.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\obj\Debug\net5.0\proj03_04_ChangeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\obj\Debug\net5.0\proj03_04_ChangeCalculator.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\obj\Debug\net5.0\proj03_04_ChangeCalculator.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\obj\Debug\net5.0\proj03_04_ChangeCalculator.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\obj\Debug\net5.0\proj03_04_ChangeCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\obj\Debug\net5.0\refint\proj03_04_ChangeCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\obj\Debug\net5.0\proj03_04_ChangeCalculator.pdb
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\obj\Debug\net5.0\proj03_04_ChangeCalculator.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\proj03_04_ChangeCalculator\proj03_04_ChangeCalculator\obj\Debug\net5.0\ref\proj03_04_ChangeCalculator.dll
