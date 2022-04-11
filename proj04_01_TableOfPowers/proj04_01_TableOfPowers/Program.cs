@@ -12,14 +12,18 @@ namespace proj04_01_TableOfPowers
             Console.WriteLine("Enter an integer: ");
             int number = Convert.ToInt32(Console.ReadLine());
 
-            int squared = (number * number);
+            for (int i = 1; i <= number; i++)
+            {
+                int squared = (i * i);
 
-            int cubed = ((number * number) * number);
+                int cubed = ((i * i) * i);
 
-            Console.WriteLine("Number  Squared  Cubed");
-            Console.WriteLine("======  =======  =====");
+                Console.WriteLine("Number  Squared  Cubed");
+                Console.WriteLine("======  =======  =====");
 
-            Console.WriteLine(number + "      " + squared + "    " + cubed);
+                Console.WriteLine(i + "      " + squared + "    " + cubed);
+
+            }
 
             Console.ReadLine();
         }
