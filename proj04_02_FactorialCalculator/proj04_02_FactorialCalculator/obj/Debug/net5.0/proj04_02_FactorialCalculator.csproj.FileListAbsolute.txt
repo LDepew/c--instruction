@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\bin\Debug\net5.0\proj04_02_FactorialCalculator.exe
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\bin\Debug\net5.0\proj04_02_FactorialCalculator.deps.json
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\bin\Debug\net5.0\proj04_02_FactorialCalculator.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\bin\Debug\net5.0\proj04_02_FactorialCalculator.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\bin\Debug\net5.0\proj04_02_FactorialCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\bin\Debug\net5.0\proj04_02_FactorialCalculator.pdb
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\obj\Debug\net5.0\proj04_02_FactorialCalculator.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\obj\Debug\net5.0\proj04_02_FactorialCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\obj\Debug\net5.0\proj04_02_FactorialCalculator.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\obj\Debug\net5.0\proj04_02_FactorialCalculator.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\obj\Debug\net5.0\proj04_02_FactorialCalculator.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\obj\Debug\net5.0\proj04_02_FactorialCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\obj\Debug\net5.0\refint\proj04_02_FactorialCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\obj\Debug\net5.0\proj04_02_FactorialCalculator.pdb
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\obj\Debug\net5.0\proj04_02_FactorialCalculator.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\proj04_02_FactorialCalculator\proj04_02_FactorialCalculator\obj\Debug\net5.0\ref\proj04_02_FactorialCalculator.dll

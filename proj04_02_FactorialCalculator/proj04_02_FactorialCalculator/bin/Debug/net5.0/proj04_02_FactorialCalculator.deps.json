@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "proj04_02_FactorialCalculator/1.0.0": {
+        "runtime": {
+          "proj04_02_FactorialCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "proj04_02_FactorialCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
