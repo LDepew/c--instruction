@@ -19,26 +19,32 @@ namespace proj04_02_FactorialCalculator
 
                 long fact = 1;
 
-                for (int i = 1; i <= input; i++)
+                if (input > 0 && input < 21)
                 {
-                    fact = fact * i;
+                    for (int i = 1; i <= input; i++)
+                    {
+                        fact = fact * i;
+                    }
+
+                    Console.WriteLine("The factorial of " + input + " is " + fact);
+
+                    Console.Write("Continue (y/n): ");
+                    string loop = Console.ReadLine();
+
+                    if (loop == "y")
+                    {
+                        runagain = true;
+                    }
+                    else if (loop == "n")
+                    {
+                        runagain = false;
+                    }
                 }
-
-                Console.WriteLine("The factorial of " + input + " is " + fact);
-
-                Console.Write("Continue (y/n): ");
-                string loop = Console.ReadLine();
-
-                if (loop == "y")
+                else
                 {
-                    runagain = true;
-                }
-                else if (loop == "n")
-                {
-                    runagain = false;
+                    Console.WriteLine("Invalid Selection");
                 }
             }
-
             Console.ReadLine();
         }
     }
