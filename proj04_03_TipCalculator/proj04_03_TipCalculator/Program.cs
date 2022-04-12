@@ -9,39 +9,58 @@ namespace proj04_03_TipCalculator
             Console.WriteLine("Tip Calculator");
             Console.WriteLine();
 
-            Console.Write("Cost of meal: ");
-            decimal cost = Convert.ToDecimal(Console.ReadLine());
-            Console.WriteLine();
+            bool runagain = true;
 
-            decimal tipfifteen = cost * 0.15m;
-            string tipfifteenamt = string.Format("{0:C}", tipfifteen);
-            decimal totalcostfifteen = cost + tipfifteen;
-            string totalcostfifteenamt = string.Format("{0:C}", totalcostfifteen);
+            while (runagain)
+            {
 
-            decimal tiptwenty = cost * 0.20m;
-            string tiptwentyamt = string.Format("{0:C}", tiptwenty);
-            decimal totalcosttwenty = cost + tiptwenty;
-            string totalcosttwentyamt = string.Format("{0:C}", totalcosttwenty);
+                Console.Write("Cost of meal: ");
+                decimal cost = Convert.ToDecimal(Console.ReadLine());
+                Console.WriteLine();
 
-            decimal tiptwentyfive = cost * 0.25m;
-            string tiptwentyfiveamt = string.Format("{0:C}", tiptwentyfive);
-            decimal totalcosttwentyfive = cost + tiptwentyfive;
-            string totalcosttwentyfiveamt = string.Format("{0:C}", totalcosttwentyfive);
+                decimal tipfifteen = cost * 0.15m;
+                string tipfifteenamt = string.Format("{0:C}", tipfifteen);
+                decimal totalcostfifteen = cost + tipfifteen;
+                string totalcostfifteenamt = string.Format("{0:C}", totalcostfifteen);
 
-            Console.WriteLine("15%");
-            Console.WriteLine("Tip amount 15%: " + tipfifteenamt);
-            Console.WriteLine("Total amount: " + totalcostfifteenamt);
-            Console.WriteLine();
+                decimal tiptwenty = cost * 0.20m;
+                string tiptwentyamt = string.Format("{0:C}", tiptwenty);
+                decimal totalcosttwenty = cost + tiptwenty;
+                string totalcosttwentyamt = string.Format("{0:C}", totalcosttwenty);
 
-            Console.WriteLine("20%");
-            Console.WriteLine("Tip amount 20%: " + tiptwentyamt);
-            Console.WriteLine("Total amount: " + totalcosttwentyamt);
-            Console.WriteLine();
+                decimal tiptwentyfive = cost * 0.25m;
+                string tiptwentyfiveamt = string.Format("{0:C}", tiptwentyfive);
+                decimal totalcosttwentyfive = cost + tiptwentyfive;
+                string totalcosttwentyfiveamt = string.Format("{0:C}", totalcosttwentyfive);
 
-            Console.WriteLine("25%");
-            Console.WriteLine("Tip amount 25%: " + tiptwentyfiveamt);
-            Console.WriteLine("Total amount: " + totalcosttwentyfiveamt);
-            Console.WriteLine();
+                Console.WriteLine("15%");
+                Console.WriteLine("Tip amount 15%: " + tipfifteenamt);
+                Console.WriteLine("Total amount: " + totalcostfifteenamt);
+                Console.WriteLine();
+
+                Console.WriteLine("20%");
+                Console.WriteLine("Tip amount 20%: " + tiptwentyamt);
+                Console.WriteLine("Total amount: " + totalcosttwentyamt);
+                Console.WriteLine();
+
+                Console.WriteLine("25%");
+                Console.WriteLine("Tip amount 25%: " + tiptwentyfiveamt);
+                Console.WriteLine("Total amount: " + totalcosttwentyfiveamt);
+                Console.WriteLine();
+
+                Console.Write("Continue (y/n): ");
+                string loop = Console.ReadLine();
+
+                if (loop == "y")
+                {
+                    runagain = true;
+                }
+                else if (loop == "n")
+                {
+                    runagain = false;
+                }
+
+            }
 
             Console.ReadLine();
         }
