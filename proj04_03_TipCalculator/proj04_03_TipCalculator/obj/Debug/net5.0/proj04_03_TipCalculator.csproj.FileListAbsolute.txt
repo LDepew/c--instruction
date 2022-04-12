@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\bin\Debug\net5.0\proj04_03_TipCalculator.exe
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\bin\Debug\net5.0\proj04_03_TipCalculator.deps.json
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\bin\Debug\net5.0\proj04_03_TipCalculator.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\bin\Debug\net5.0\proj04_03_TipCalculator.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\bin\Debug\net5.0\proj04_03_TipCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\bin\Debug\net5.0\proj04_03_TipCalculator.pdb
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\obj\Debug\net5.0\proj04_03_TipCalculator.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\obj\Debug\net5.0\proj04_03_TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\obj\Debug\net5.0\proj04_03_TipCalculator.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\obj\Debug\net5.0\proj04_03_TipCalculator.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\obj\Debug\net5.0\proj04_03_TipCalculator.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\obj\Debug\net5.0\proj04_03_TipCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\obj\Debug\net5.0\refint\proj04_03_TipCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\obj\Debug\net5.0\proj04_03_TipCalculator.pdb
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\obj\Debug\net5.0\proj04_03_TipCalculator.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\proj04_03_TipCalculator\proj04_03_TipCalculator\obj\Debug\net5.0\ref\proj04_03_TipCalculator.dll
