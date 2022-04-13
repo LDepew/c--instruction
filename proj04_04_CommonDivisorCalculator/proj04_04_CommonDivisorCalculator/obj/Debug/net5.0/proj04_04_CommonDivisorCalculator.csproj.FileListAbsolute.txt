@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\bin\Debug\net5.0\proj04_04_CommonDivisorCalculator.exe
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\bin\Debug\net5.0\proj04_04_CommonDivisorCalculator.deps.json
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\bin\Debug\net5.0\proj04_04_CommonDivisorCalculator.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\bin\Debug\net5.0\proj04_04_CommonDivisorCalculator.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\bin\Debug\net5.0\proj04_04_CommonDivisorCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\bin\Debug\net5.0\proj04_04_CommonDivisorCalculator.pdb
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\obj\Debug\net5.0\proj04_04_CommonDivisorCalculator.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\obj\Debug\net5.0\proj04_04_CommonDivisorCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\obj\Debug\net5.0\proj04_04_CommonDivisorCalculator.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\obj\Debug\net5.0\proj04_04_CommonDivisorCalculator.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\obj\Debug\net5.0\proj04_04_CommonDivisorCalculator.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\obj\Debug\net5.0\proj04_04_CommonDivisorCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\obj\Debug\net5.0\refint\proj04_04_CommonDivisorCalculator.dll
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\obj\Debug\net5.0\proj04_04_CommonDivisorCalculator.pdb
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\obj\Debug\net5.0\proj04_04_CommonDivisorCalculator.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\proj04_04_CommonDivisorCalculator\proj04_04_CommonDivisorCalculator\obj\Debug\net5.0\ref\proj04_04_CommonDivisorCalculator.dll
