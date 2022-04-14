@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\bin\Debug\net5.0\proj05_02_DataValidation.exe
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\bin\Debug\net5.0\proj05_02_DataValidation.deps.json
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\bin\Debug\net5.0\proj05_02_DataValidation.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\bin\Debug\net5.0\proj05_02_DataValidation.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\bin\Debug\net5.0\proj05_02_DataValidation.dll
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\bin\Debug\net5.0\proj05_02_DataValidation.pdb
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\obj\Debug\net5.0\proj05_02_DataValidation.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\obj\Debug\net5.0\proj05_02_DataValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\obj\Debug\net5.0\proj05_02_DataValidation.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\obj\Debug\net5.0\proj05_02_DataValidation.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\obj\Debug\net5.0\proj05_02_DataValidation.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\obj\Debug\net5.0\proj05_02_DataValidation.dll
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\obj\Debug\net5.0\refint\proj05_02_DataValidation.dll
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\obj\Debug\net5.0\proj05_02_DataValidation.pdb
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\obj\Debug\net5.0\proj05_02_DataValidation.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\proj05_02_DataValidation\proj05_02_DataValidation\obj\Debug\net5.0\ref\proj05_02_DataValidation.dll
