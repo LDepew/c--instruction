@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\bin\Debug\net5.0\proj05_01_DiceRoller.exe
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\bin\Debug\net5.0\proj05_01_DiceRoller.deps.json
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\bin\Debug\net5.0\proj05_01_DiceRoller.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\bin\Debug\net5.0\proj05_01_DiceRoller.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\bin\Debug\net5.0\proj05_01_DiceRoller.dll
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\bin\Debug\net5.0\proj05_01_DiceRoller.pdb
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\obj\Debug\net5.0\proj05_01_DiceRoller.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\obj\Debug\net5.0\proj05_01_DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\obj\Debug\net5.0\proj05_01_DiceRoller.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\obj\Debug\net5.0\proj05_01_DiceRoller.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\obj\Debug\net5.0\proj05_01_DiceRoller.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\obj\Debug\net5.0\proj05_01_DiceRoller.dll
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\obj\Debug\net5.0\refint\proj05_01_DiceRoller.dll
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\obj\Debug\net5.0\proj05_01_DiceRoller.pdb
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\obj\Debug\net5.0\proj05_01_DiceRoller.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\proj05_01_DiceRoller\proj05_01_DiceRoller\obj\Debug\net5.0\ref\proj05_01_DiceRoller.dll
