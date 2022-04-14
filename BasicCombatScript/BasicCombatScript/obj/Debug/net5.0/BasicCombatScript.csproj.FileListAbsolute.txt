@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\bin\Debug\net5.0\BasicCombatScript.exe
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\bin\Debug\net5.0\BasicCombatScript.deps.json
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\bin\Debug\net5.0\BasicCombatScript.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\bin\Debug\net5.0\BasicCombatScript.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\bin\Debug\net5.0\BasicCombatScript.dll
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\bin\Debug\net5.0\BasicCombatScript.pdb
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\obj\Debug\net5.0\BasicCombatScript.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\obj\Debug\net5.0\BasicCombatScript.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\obj\Debug\net5.0\BasicCombatScript.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\obj\Debug\net5.0\BasicCombatScript.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\obj\Debug\net5.0\BasicCombatScript.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\obj\Debug\net5.0\BasicCombatScript.dll
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\obj\Debug\net5.0\refint\BasicCombatScript.dll
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\obj\Debug\net5.0\BasicCombatScript.pdb
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\obj\Debug\net5.0\BasicCombatScript.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\BasicCombatScript\BasicCombatScript\obj\Debug\net5.0\ref\BasicCombatScript.dll

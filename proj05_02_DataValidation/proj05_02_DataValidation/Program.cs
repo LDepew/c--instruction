@@ -23,8 +23,8 @@ namespace proj05_02_DataValidation
                 double area = width * length;
                 double perimeter = (2 * width) + (2 * length);
 
-                Console.WriteLine("Area: " + area);
-                Console.WriteLine("Perimeter: " + perimeter);
+                Console.WriteLine("Area: " + Math.Round(area, 2));
+                Console.WriteLine("Perimeter: " + Math.Round(perimeter, 2));
 
                 Console.WriteLine();
                 Console.Write("Continue? (y/n): ");
