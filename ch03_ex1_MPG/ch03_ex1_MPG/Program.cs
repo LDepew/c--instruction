@@ -16,12 +16,13 @@ namespace ch03_ex1_MPG
 
                 Console.Write("Enter miles driven: ");
                 double miles = Convert.ToDouble(Console.ReadLine());
+                
 
                 Console.Write("Enter gallons of gas used: ");
                 double gallons = Convert.ToDouble(Console.ReadLine());
 
                 double mpg = miles / gallons;
-                Console.WriteLine("Miles per gallon is " + mpg + ".");
+                Console.WriteLine("Miles per gallon is " + mpg.ToString("#.##") + ".");
                 Console.WriteLine();
 
                 Console.Write("Calculate another MPG? (y/n): ");
