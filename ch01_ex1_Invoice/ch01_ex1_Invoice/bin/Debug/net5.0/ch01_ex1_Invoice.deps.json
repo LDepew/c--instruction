@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ch01_ex1_Invoice/1.0.0": {
+        "runtime": {
+          "ch01_ex1_Invoice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ch01_ex1_Invoice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

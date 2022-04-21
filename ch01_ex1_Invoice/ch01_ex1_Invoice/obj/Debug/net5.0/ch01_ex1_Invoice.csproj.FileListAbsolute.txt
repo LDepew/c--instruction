@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\bin\Debug\net5.0\ch01_ex1_Invoice.exe
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\bin\Debug\net5.0\ch01_ex1_Invoice.deps.json
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\bin\Debug\net5.0\ch01_ex1_Invoice.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\bin\Debug\net5.0\ch01_ex1_Invoice.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\bin\Debug\net5.0\ch01_ex1_Invoice.dll
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\bin\Debug\net5.0\ch01_ex1_Invoice.pdb
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\obj\Debug\net5.0\ch01_ex1_Invoice.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\obj\Debug\net5.0\ch01_ex1_Invoice.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\obj\Debug\net5.0\ch01_ex1_Invoice.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\obj\Debug\net5.0\ch01_ex1_Invoice.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\obj\Debug\net5.0\ch01_ex1_Invoice.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\obj\Debug\net5.0\ch01_ex1_Invoice.dll
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\obj\Debug\net5.0\refint\ch01_ex1_Invoice.dll
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\obj\Debug\net5.0\ch01_ex1_Invoice.pdb
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\obj\Debug\net5.0\ch01_ex1_Invoice.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\ch01_ex1_Invoice\ch01_ex1_Invoice\obj\Debug\net5.0\ref\ch01_ex1_Invoice.dll
