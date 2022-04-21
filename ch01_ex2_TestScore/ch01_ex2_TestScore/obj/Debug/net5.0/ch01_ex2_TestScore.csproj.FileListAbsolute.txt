@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\obj\Debug\net5.0\ch01_ex2_TestScore.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\obj\Debug\net5.0\ch01_ex2_TestScore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\obj\Debug\net5.0\ch01_ex2_TestScore.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\obj\Debug\net5.0\ch01_ex2_TestScore.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\obj\Debug\net5.0\ch01_ex2_TestScore.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\bin\Debug\net5.0\ch01_ex2_TestScore.exe
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\bin\Debug\net5.0\ch01_ex2_TestScore.deps.json
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\bin\Debug\net5.0\ch01_ex2_TestScore.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\bin\Debug\net5.0\ch01_ex2_TestScore.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\bin\Debug\net5.0\ch01_ex2_TestScore.dll
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\bin\Debug\net5.0\ch01_ex2_TestScore.pdb
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\obj\Debug\net5.0\ch01_ex2_TestScore.dll
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\obj\Debug\net5.0\refint\ch01_ex2_TestScore.dll
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\obj\Debug\net5.0\ch01_ex2_TestScore.pdb
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\obj\Debug\net5.0\ch01_ex2_TestScore.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\ch01_ex2_TestScore\ch01_ex2_TestScore\obj\Debug\net5.0\ref\ch01_ex2_TestScore.dll
