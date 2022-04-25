@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\bin\Debug\net5.0\ch04_ex1_FutureValue.exe
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\bin\Debug\net5.0\ch04_ex1_FutureValue.deps.json
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\bin\Debug\net5.0\ch04_ex1_FutureValue.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\bin\Debug\net5.0\ch04_ex1_FutureValue.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\bin\Debug\net5.0\ch04_ex1_FutureValue.dll
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\bin\Debug\net5.0\ch04_ex1_FutureValue.pdb
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\obj\Debug\net5.0\ch04_ex1_FutureValue.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\obj\Debug\net5.0\ch04_ex1_FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\obj\Debug\net5.0\ch04_ex1_FutureValue.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\obj\Debug\net5.0\ch04_ex1_FutureValue.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\obj\Debug\net5.0\ch04_ex1_FutureValue.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\obj\Debug\net5.0\ch04_ex1_FutureValue.dll
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\obj\Debug\net5.0\refint\ch04_ex1_FutureValue.dll
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\obj\Debug\net5.0\ch04_ex1_FutureValue.pdb
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\obj\Debug\net5.0\ch04_ex1_FutureValue.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\ch04_ex1_FutureValue\ch04_ex1_FutureValue\obj\Debug\net5.0\ref\ch04_ex1_FutureValue.dll

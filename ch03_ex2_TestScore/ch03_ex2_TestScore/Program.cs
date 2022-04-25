@@ -14,6 +14,10 @@ namespace ch03_ex2_TestScore
             int scoreCount = 0;
             int testScore = 0;
 
+            int minScore = 0;
+            int interumScore = 0;
+            int maxScore = 0;
+
             while (testScore != 999)
             {
                 Console.Write("Enter score: ");
@@ -21,8 +25,8 @@ namespace ch03_ex2_TestScore
 
                 if (testScore <= 100)
                 {
-                    scoreCount = scoreCount + 1;
-                    scoreTotal = scoreTotal + testScore;
+                    scoreCount++;
+                    scoreTotal += testScore;
                 }
                 else if (testScore != 999)
                 {
@@ -35,7 +39,9 @@ namespace ch03_ex2_TestScore
             string message = "\n"
                     + "Score count:   " + scoreCount + "\n"
                     + "Score total:   " + scoreTotal + "\n"
-                    + "Average score: " + averageScore + "\n";
+                    + "Average score: " + averageScore + "\n"
+                    + "Minimum score: " + minScore + "\n"
+                    + "Maximum score: " + maxScore + "\n";
             Console.WriteLine(message);
 
             Console.ReadLine();
