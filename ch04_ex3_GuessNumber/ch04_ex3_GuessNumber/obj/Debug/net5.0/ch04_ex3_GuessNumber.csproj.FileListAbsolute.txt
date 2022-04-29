@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\bin\Debug\net5.0\ch04_ex3_GuessNumber.exe
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\bin\Debug\net5.0\ch04_ex3_GuessNumber.deps.json
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\bin\Debug\net5.0\ch04_ex3_GuessNumber.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\bin\Debug\net5.0\ch04_ex3_GuessNumber.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\bin\Debug\net5.0\ch04_ex3_GuessNumber.dll
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\bin\Debug\net5.0\ch04_ex3_GuessNumber.pdb
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\obj\Debug\net5.0\ch04_ex3_GuessNumber.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\obj\Debug\net5.0\ch04_ex3_GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\obj\Debug\net5.0\ch04_ex3_GuessNumber.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\obj\Debug\net5.0\ch04_ex3_GuessNumber.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\obj\Debug\net5.0\ch04_ex3_GuessNumber.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\obj\Debug\net5.0\ch04_ex3_GuessNumber.dll
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\obj\Debug\net5.0\refint\ch04_ex3_GuessNumber.dll
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\obj\Debug\net5.0\ch04_ex3_GuessNumber.pdb
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\obj\Debug\net5.0\ch04_ex3_GuessNumber.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\ch04_ex3_GuessNumber\ch04_ex3_GuessNumber\obj\Debug\net5.0\ref\ch04_ex3_GuessNumber.dll
