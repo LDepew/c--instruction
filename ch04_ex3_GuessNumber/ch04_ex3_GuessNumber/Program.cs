@@ -17,12 +17,14 @@ namespace ch04_ex3_GuessNumber
             int number = (int)d;
             number++;
 
-            int count = 1;
+            int count = 0;
+            int guess = 0;
 
-            while (true)
+
+            while (number != guess)
             {
                 Console.Write("Your guess: ");
-                int guess = Convert.ToInt32(Console.ReadLine());
+                guess = Convert.ToInt32(Console.ReadLine());
 
                 if (guess < 1 || guess > LIMIT)
                 {
@@ -36,14 +38,12 @@ namespace ch04_ex3_GuessNumber
                 } else if (guess > number)
                 {
                     Console.WriteLine("Too high.");
-                } else
-                {
-                    Console.WriteLine("You guessed it in " +
-                                      count + " tries.\n");
-                    break;
                 }
                 count++;
             }
+
+            Console.WriteLine("You guess it in " +
+                              count + " tries.\n");
 
             Console.WriteLine("Bye!");
         }
