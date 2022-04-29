@@ -32,7 +32,7 @@ namespace ch04_ex3_GuessNumber
                     continue;
                 }
 
-                if (guess < number)
+                else if (guess < number)
                 {
                     Console.WriteLine("Too low.");
                 } else if (guess > number)
