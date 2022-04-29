@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProgRepos\\repos\\c#-instruction\\TipCalculatorFormsApp\\TipCalculatorFormsApp\\TipCalculatorFormsApp.csproj": {}
+    "D:\\ProgRepos\\repos\\c#-instruction\\ch04_ex2_Invoice\\ch04_ex2_Invoice\\ch04_ex2_Invoice.csproj": {}
   },
   "projects": {
-    "D:\\ProgRepos\\repos\\c#-instruction\\TipCalculatorFormsApp\\TipCalculatorFormsApp\\TipCalculatorFormsApp.csproj": {
+    "D:\\ProgRepos\\repos\\c#-instruction\\ch04_ex2_Invoice\\ch04_ex2_Invoice\\ch04_ex2_Invoice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProgRepos\\repos\\c#-instruction\\TipCalculatorFormsApp\\TipCalculatorFormsApp\\TipCalculatorFormsApp.csproj",
-        "projectName": "TipCalculatorFormsApp",
-        "projectPath": "D:\\ProgRepos\\repos\\c#-instruction\\TipCalculatorFormsApp\\TipCalculatorFormsApp\\TipCalculatorFormsApp.csproj",
+        "projectUniqueName": "D:\\ProgRepos\\repos\\c#-instruction\\ch04_ex2_Invoice\\ch04_ex2_Invoice\\ch04_ex2_Invoice.csproj",
+        "projectName": "ch04_ex2_Invoice",
+        "projectPath": "D:\\ProgRepos\\repos\\c#-instruction\\ch04_ex2_Invoice\\ch04_ex2_Invoice\\ch04_ex2_Invoice.csproj",
         "packagesPath": "C:\\Users\\Metal\\.nuget\\packages\\",
-        "outputPath": "D:\\ProgRepos\\repos\\c#-instruction\\TipCalculatorFormsApp\\TipCalculatorFormsApp\\obj\\",
+        "outputPath": "D:\\ProgRepos\\repos\\c#-instruction\\ch04_ex2_Invoice\\ch04_ex2_Invoice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Metal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0-windows7.0": {
-            "targetAlias": "net5.0-windows",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -52,9 +52,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
