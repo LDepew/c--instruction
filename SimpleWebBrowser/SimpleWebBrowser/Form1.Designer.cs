@@ -56,6 +56,7 @@
             this.webView21.Size = new System.Drawing.Size(798, 392);
             this.webView21.TabIndex = 0;
             this.webView21.ZoomFactor = 1D;
+            this.webView21.NavigationCompleted += new System.EventHandler<Microsoft.Web.WebView2.Core.CoreWebView2NavigationCompletedEventArgs>(this.webView21_NavigationCompleted);
             this.webView21.Click += new System.EventHandler(this.webView21_Click);
             // 
             // textBox1
@@ -67,6 +68,7 @@
             this.textBox1.Size = new System.Drawing.Size(692, 20);
             this.textBox1.TabIndex = 1;
             this.textBox1.Text = "http://";
+            this.textBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
             // 
             // button1
             // 
@@ -101,7 +103,7 @@
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(93, 22);
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
@@ -146,7 +148,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Simple Web Browser v0.000001 ALPHA";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.webView21)).EndInit();
             this.menuStrip1.ResumeLayout(false);

@@ -52,7 +52,28 @@ namespace SimpleWebBrowser
 
         private void button1_Click(object sender, EventArgs e)
         {
+            NagivateToPage();
+        }
+
+        private void NagivateToPage()
+        {
+            button1.Enabled = false; ;
+            textBox1.Enabled = false;
             webView21.CoreWebView2.Navigate(textBox1.Text);
+        }
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if ( e.KeyChar == (char)ConsoleKey.Enter )
+            {
+                NagivateToPage();
+            }
+            //button1_Click(null, null);
+        }
+
+        private void webView21_NavigationCompleted(object sender, CoreWebView2NavigationCompletedEventArgs e)
+        {
+            button1.Enabled = true;
+            textBox1.Enabled = true;
         }
     }
 }
