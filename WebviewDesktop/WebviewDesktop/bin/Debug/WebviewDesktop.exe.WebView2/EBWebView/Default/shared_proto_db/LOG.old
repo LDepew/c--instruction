@@ -1,2 +1,3 @@
-2022/04/27-16:01:27.066 6828 Creating DB D:\ProgRepos\repos\c#-instruction\WebviewDesktop\WebviewDesktop\bin\Debug\WebviewDesktop.exe.WebView2\EBWebView\Default\shared_proto_db since it was missing.
-2022/04/27-16:01:27.080 6828 Reusing MANIFEST D:\ProgRepos\repos\c#-instruction\WebviewDesktop\WebviewDesktop\bin\Debug\WebviewDesktop.exe.WebView2\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2022/04/27-16:02:18.190 52ec Reusing MANIFEST D:\ProgRepos\repos\c#-instruction\WebviewDesktop\WebviewDesktop\bin\Debug\WebviewDesktop.exe.WebView2\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2022/04/27-16:02:18.191 52ec Recovering log #3
+2022/04/27-16:02:18.191 52ec Reusing old log D:\ProgRepos\repos\c#-instruction\WebviewDesktop\WebviewDesktop\bin\Debug\WebviewDesktop.exe.WebView2\EBWebView\Default\shared_proto_db/000003.log 

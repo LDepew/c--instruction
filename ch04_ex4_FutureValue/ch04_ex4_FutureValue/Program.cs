@@ -20,7 +20,7 @@ namespace ch04_ex4_FutureValue
                 Console.Write("Enter number of years: ");
                 int years = Convert.ToInt32(Console.ReadLine());
 
-                double monthlyInterestRate = interestRate / 12 / 100;
+                /*double monthlyInterestRate = interestRate / 12 / 100;
                 int months = years * 12;
 
                 double futureValue = 0.0;
@@ -31,7 +31,7 @@ namespace ch04_ex4_FutureValue
                 }
 
                 Console.WriteLine("Future value: " + futureValue.ToString("C"));
-                Console.WriteLine();
+                Console.WriteLine(); */
 
                 Console.Write("Continue? (y/n): ");
                 string loop = Console.ReadLine();
