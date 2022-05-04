@@ -20,7 +20,9 @@ namespace proj05_03_GuessingGame
                 int num = random.Next(1, 101);
                 Console.WriteLine("Try to guess it.");
                 Console.WriteLine();
-                int guess = 0; ;
+                int guess = 0;
+
+                int guessCount = 0;
 
                 while (guess != num)
                 {
@@ -43,27 +45,35 @@ namespace proj05_03_GuessingGame
                     {
                         Console.WriteLine("Too low! Guess again.");
                     }
+
+                    guessCount++;
                 }
 
-                Console.WriteLine("Great work! You are a mathematical wizard.");
+                if (guessCount <= 3)
+                {
+                    Console.WriteLine("Great work! You are a mathematical wizarrd.");
+                }
+                else if (guessCount > 3 && guessCount <= 7)
+                {
+                    Console.WriteLine("Not too bad! You've got some potential.");
+                }
+                else if (guessCount > 7)
+                {
+                    Console.WriteLine("What took you so long? Maybe you should take some lessons.");
+                }
                 Console.WriteLine();
 
                 Console.Write("Try again? (y/n): ");
                 String loop = Console.ReadLine();
 
-                if (loop == "y")
-                {
-                    runagain = true;
-                }
-                else if (loop == "n")
-                {
-                    runagain = false;
-                }
-                else
-                {
-                    Console.WriteLine("Error! This entry is required. Try again.");
-                }
-
+                    if (loop == "y")
+                    {
+                        runagain = true;
+                    }
+                    else if (loop == "n")
+                    {
+                        runagain = false;
+                    }
             }
 
             Console.ReadLine();
