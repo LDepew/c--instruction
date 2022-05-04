@@ -1,3 +1,2 @@
-2022/05/02-15:50:28.815 9020 Reusing MANIFEST D:\ProgRepos\repos\c#-instruction\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.WebView2\EBWebView\Default\File System\Origins/MANIFEST-000001
-2022/05/02-15:50:28.815 9020 Recovering log #3
-2022/05/02-15:50:28.815 9020 Reusing old log D:\ProgRepos\repos\c#-instruction\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.WebView2\EBWebView\Default\File System\Origins/000003.log 
+2022/05/02-15:12:04.772 6aec Creating DB D:\ProgRepos\repos\c#-instruction\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.WebView2\EBWebView\Default\File System\Origins since it was missing.
+2022/05/02-15:12:04.781 6aec Reusing MANIFEST D:\ProgRepos\repos\c#-instruction\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.WebView2\EBWebView\Default\File System\Origins/MANIFEST-000001
