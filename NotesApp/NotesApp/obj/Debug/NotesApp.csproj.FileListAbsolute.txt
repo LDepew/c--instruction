@@ -1,0 +1,11 @@
+D:\ProgRepos\repos\c#-instruction\NotesApp\NotesApp\bin\Debug\NotesApp.exe.config
+D:\ProgRepos\repos\c#-instruction\NotesApp\NotesApp\bin\Debug\NotesApp.exe
+D:\ProgRepos\repos\c#-instruction\NotesApp\NotesApp\bin\Debug\NotesApp.pdb
+D:\ProgRepos\repos\c#-instruction\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.SuggestedBindingRedirects.cache
+D:\ProgRepos\repos\c#-instruction\NotesApp\NotesApp\obj\Debug\NotesApp.Form1.resources
+D:\ProgRepos\repos\c#-instruction\NotesApp\NotesApp\obj\Debug\NotesApp.Properties.Resources.resources
+D:\ProgRepos\repos\c#-instruction\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.GenerateResource.cache
+D:\ProgRepos\repos\c#-instruction\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\NotesApp\NotesApp\obj\Debug\NotesApp.exe
+D:\ProgRepos\repos\c#-instruction\NotesApp\NotesApp\obj\Debug\NotesApp.pdb
