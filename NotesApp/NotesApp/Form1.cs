@@ -29,24 +29,48 @@ namespace NotesApp
 
         private void button2_Click(object sender, EventArgs e)
         {
-            checkedListBox1.Items.Insert(0, textBox1.Text);
-            checkedListBox1.Items.Insert(0, DateTime.Now.ToString());
+            addData();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            checkedListBox1.Items.RemoveAt(checkedListBox1.SelectedIndex);
+            foreach (var item in checkedListBox1.CheckedItems.OfType<string>().ToList())
+            {
+                checkedListBox1.Items.Remove(item);
+            }
         }
-    }
 
-    public class MyNote
-    {
-        public string Note { get; set; }
-        public DateTime Date { get; set; }
-
-        public override string ToString()
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            return String.Format("{0} {1}", Note, Date);
+            for (int i = 0; i < checkedListBox1.Items.Count; i++)
+            {
+                if (checkBox1.Checked == true)
+                {
+                    checkedListBox1.SetItemChecked(i, true);
+                }
+                else
+                {
+                    checkedListBox1.SetItemChecked(i, false);
+                }
+            }
+        }
+
+        private void addData()
+        {
+            String data1 = textBox1.Text;
+            String data2 = DateTime.Now.ToString();
+
+            String data3 = (data1 + " | " + data2);
+
+            checkedListBox1.Items.Add(data3);
+        }
+
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)ConsoleKey.Enter)
+            {
+                addData();
+            }
         }
     }
 }
