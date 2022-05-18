@@ -1,0 +1,11 @@
+D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\bin\Debug\NeuroLiz.exe.config
+D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\bin\Debug\NeuroLiz.exe
+D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\bin\Debug\NeuroLiz.pdb
+D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\obj\Debug\NeuroLiz.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\obj\Debug\NeuroLiz.csproj.SuggestedBindingRedirects.cache
+D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\obj\Debug\NeuroLiz.Form1.resources
+D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\obj\Debug\NeuroLiz.Properties.Resources.resources
+D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\obj\Debug\NeuroLiz.csproj.GenerateResource.cache
+D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\obj\Debug\NeuroLiz.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\obj\Debug\NeuroLiz.exe
+D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\obj\Debug\NeuroLiz.pdb
