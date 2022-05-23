@@ -23,12 +23,20 @@ namespace NeuroLiz
             timer = new System.Timers.Timer();
             timer.Interval = 1000;
             timer.Elapsed += Timer_Elapsed;
+            timer.Start();
         }
 
         private void Timer_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
         {
             DateTime currentTime = DateTime.Now;
-            DateTime alarmTime;
+            DateTime alarmTime = DateTime.Parse(checkedListBox1.Text);
+
+            if (currentTime.Hour == alarmTime.Hour && currentTime.Minute == alarmTime.Minute && currentTime.Second == alarmTime.Second)
+            {
+                timer.Stop();
+                MessageBox.Show("Ring, Ring!", checkedListBox1.Text, MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+            }
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)

@@ -9,3 +9,7 @@ D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\obj\Debug\NeuroLiz.csproj.Ge
 D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\obj\Debug\NeuroLiz.csproj.CoreCompileInputs.cache
 D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\obj\Debug\NeuroLiz.exe
 D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\obj\Debug\NeuroLiz.pdb
+D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\bin\Debug\NeuroLiz.exe.manifest
+D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\bin\Debug\NeuroLiz.application
+D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\obj\Debug\NeuroLiz.exe.manifest
+D:\ProgRepos\repos\c#-instruction\NeuroLiz\NeuroLiz\obj\Debug\NeuroLiz.application

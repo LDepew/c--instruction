@@ -1,0 +1,16 @@
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\bin\Debug\net5.0\proj07_01_ContactList.exe
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\bin\Debug\net5.0\proj07_01_ContactList.deps.json
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\bin\Debug\net5.0\proj07_01_ContactList.runtimeconfig.json
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\bin\Debug\net5.0\proj07_01_ContactList.runtimeconfig.dev.json
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\bin\Debug\net5.0\proj07_01_ContactList.dll
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\bin\Debug\net5.0\proj07_01_ContactList.pdb
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\obj\Debug\net5.0\proj07_01_ContactList.csproj.AssemblyReference.cache
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\obj\Debug\net5.0\proj07_01_ContactList.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\obj\Debug\net5.0\proj07_01_ContactList.AssemblyInfoInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\obj\Debug\net5.0\proj07_01_ContactList.AssemblyInfo.cs
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\obj\Debug\net5.0\proj07_01_ContactList.csproj.CoreCompileInputs.cache
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\obj\Debug\net5.0\proj07_01_ContactList.dll
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\obj\Debug\net5.0\refint\proj07_01_ContactList.dll
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\obj\Debug\net5.0\proj07_01_ContactList.pdb
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\obj\Debug\net5.0\proj07_01_ContactList.genruntimeconfig.cache
+D:\ProgRepos\repos\c#-instruction\proj07_01_ContactList\proj07_01_ContactList\obj\Debug\net5.0\ref\proj07_01_ContactList.dll

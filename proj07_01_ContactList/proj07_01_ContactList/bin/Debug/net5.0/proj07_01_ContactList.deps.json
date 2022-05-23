@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "proj07_01_ContactList/1.0.0": {
+        "runtime": {
+          "proj07_01_ContactList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "proj07_01_ContactList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
