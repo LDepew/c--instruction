@@ -23,7 +23,6 @@ namespace NeuroLiz
             timer = new System.Timers.Timer();
             timer.Interval = 1000;
             timer.Elapsed += Timer_Elapsed;
-            timer.Start();
         }
 
         private void Timer_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
@@ -52,6 +51,7 @@ namespace NeuroLiz
         private void button1_Click(object sender, EventArgs e)
         {
             addData();
+            //add timer here?
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -59,6 +59,14 @@ namespace NeuroLiz
             foreach (var item in checkedListBox1.CheckedItems.OfType<string>().ToList())
             {
                 checkedListBox1.Items.Remove(item);
+                checkBox1.Checked = false;
+                
+                /*if (checkedListBox1.SelectedIndex != -1)
+                {
+                    for (int i = checkedListBox1.CheckedItems.Count - 1; i >= 0; i--)
+                        //checkedListBox1.Items.Remove(checkedListBox1.CheckedItems[i]);
+                    checkedListBox1.SelectedItems.Remove(checkedListBox1.CheckedItems[i]);
+                }*/
             }
         }
 
@@ -72,6 +80,8 @@ namespace NeuroLiz
 
         private void addData()
         {
+            //dateTimePicker1.Format = DateTimePickerFormat.Custom; 
+            //dateTimePicker1.CustomFormat = "hh:mm:ss dddd MMMM dd, yyyy";
             string data1 = textBox1.Text;
             string data2 = dateTimePicker1.Text;
 
