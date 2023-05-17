@@ -1,20 +1,32 @@
-﻿using System;
+﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
+using System;
 using System.Diagnostics;
+using System.IO;
+using System.Net;
+using System.Runtime.InteropServices;
 using static System.Net.WebRequestMethods;
 
 namespace NewsFinder
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public IWebDriver driver;
+
+        public void Setup()
+        {
+            driver = new ChromeDriver(".");
+        }
+
+        public void Main(string[] args)
         {
             Console.WriteLine("Youtube or Google: ");
-            String selection = Console.ReadLine();
+            string selection = Console.ReadLine();
 
             if (selection == "Google" || selection == "google")
             {
                 Console.WriteLine("Enter search terms: ");
-                String query = Console.ReadLine();
+                string query = Console.ReadLine();
 
                 Console.WriteLine(query);
 
@@ -25,11 +37,38 @@ namespace NewsFinder
                     UseShellExecute = true
                 };
                 Process.Start(ps);
+
+                driver.Navigate().GoToUrl(request);
+
+                //accept privacy
+                driver.FindElement(By.XPath("//div[text()='I agree']")).Click();
+
+                //type something and press Enter
+                driver.FindElement(By.Name("q")).SendKeys("Retrieve Index" + Keys.Enter);
+
+                //get all a elements 
+                var a_webElements = driver.FindElements(By.XPath("//div[@class='g']/div/div/a"));
+
+
+                //print the index for all
+                for (int i = 0; i < a_webElements.Count; i++)
+                {
+                    Console.WriteLine($"The index is {i} for the url {a_webElements[i].GetAttribute("href")}");
+                }
+
+                WebClient webClient = new WebClient();
+                webClient.Proxy = new WebProxy("http://www.google.com");
+                string str = webClient.DownloadString("http://www.google.com/search?q=" + query);
+                using (StreamWriter writetext = new StreamWriter("write.txt"))
+                {
+                    writetext.WriteLine(str);
+                }
+                //Console.WriteLine(str);
             }
             else if (selection == "Youtube" || selection == "youtube")
             {
                 Console.WriteLine("Enter search terms: ");
-                String query = Console.ReadLine();
+                string query = Console.ReadLine();
 
                 string request = "https://www.youtube.com/results?search_query=" + query;
                 ProcessStartInfo ps = new ProcessStartInfo

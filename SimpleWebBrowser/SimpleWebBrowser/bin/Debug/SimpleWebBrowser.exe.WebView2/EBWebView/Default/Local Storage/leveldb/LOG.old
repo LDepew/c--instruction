@@ -1,3 +1,5 @@
-2022/05/04-15:17:50.484 9008 Reusing MANIFEST D:\ProgRepos\repos\c#-instruction\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2022/05/04-15:17:50.485 9008 Recovering log #10
-2022/05/04-15:17:50.486 9008 Reusing old log D:\ProgRepos\repos\c#-instruction\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000010.log 
+2023/05/12-13:25:17.509 60e0 Reusing MANIFEST D:\ProgRepos\repos\c#-instruction\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2023/05/12-13:25:17.511 60e0 Recovering log #10
+2023/05/12-13:25:17.514 60e0 Reusing old log D:\ProgRepos\repos\c#-instruction\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000010.log 
+2023/05/12-13:25:29.354 486c Level-0 table #14: started
+2023/05/12-13:25:29.361 486c Level-0 table #14: 49583 bytes OK

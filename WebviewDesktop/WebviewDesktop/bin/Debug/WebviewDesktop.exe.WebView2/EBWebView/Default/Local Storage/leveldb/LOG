@@ -1,3 +1,5 @@
-2022/05/02-14:18:34.677 13dc Reusing MANIFEST D:\ProgRepos\repos\c#-instruction\WebviewDesktop\WebviewDesktop\bin\Debug\WebviewDesktop.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2022/05/02-14:18:34.678 13dc Recovering log #3
-2022/05/02-14:18:34.679 13dc Reusing old log D:\ProgRepos\repos\c#-instruction\WebviewDesktop\WebviewDesktop\bin\Debug\WebviewDesktop.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 
+2023/05/12-13:24:04.874 5154 Reusing MANIFEST D:\ProgRepos\repos\c#-instruction\WebviewDesktop\WebviewDesktop\bin\Debug\WebviewDesktop.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2023/05/12-13:24:04.875 5154 Recovering log #3
+2023/05/12-13:24:04.878 5154 Reusing old log D:\ProgRepos\repos\c#-instruction\WebviewDesktop\WebviewDesktop\bin\Debug\WebviewDesktop.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 
+2023/05/12-13:24:17.563 3b78 Level-0 table #5: started
+2023/05/12-13:24:17.569 3b78 Level-0 table #5: 46462 bytes OK

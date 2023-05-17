@@ -6,24 +6,31 @@ namespace BasicCombatScript
     {
         static void Main(string[] args)
         {
+
+            Random rnd = new Random();
+
             Console.WriteLine("Simple Combat");
             Console.WriteLine("Press any key to play.");
             Console.ReadKey();
             Console.Clear();
 
-            Console.WriteLine("Set your player HP.");
-            int playerHP = Convert.ToInt32(Console.ReadLine());
+            int playerHP = rnd.Next(1, 200);
+            Console.WriteLine("player HP: " + playerHP);
+            //playerHP = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Set your player attack.");
-            int playerAttack = Convert.ToInt32(Console.ReadLine());
+            int playerAttack = rnd.Next(1, 30);
+            Console.WriteLine("player attack: " + playerAttack);
+            //int playerAttack = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Set your enemy HP.");
-            int baseEnemyHP = Convert.ToInt32(Console.ReadLine());
+            int baseEnemyHP = rnd.Next(1, 200);
+            Console.WriteLine("enemy HP: " + baseEnemyHP);
+            //baseEnemyHP = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Set you enemy attack.");
-            int enemyAttack = Convert.ToInt32(Console.ReadLine());
+            int enemyAttack = rnd.Next(1, 30);
+            Console.WriteLine("enemy attack: " + enemyAttack);
+            //int enemyAttack = Convert.ToInt32(Console.ReadLine());
 
-            Console.Clear();
+            //Console.Clear();
             while (playerHP > 0)
             {
 
@@ -44,6 +51,9 @@ namespace BasicCombatScript
                     }
 
                     Console.Clear();
+
+                    Console.WriteLine("Player HP: " + playerHP);
+                    Console.WriteLine("Enemy HP: " + enemyHP);
                 }
 
                 Console.WriteLine("The enemy has been defeated.");
